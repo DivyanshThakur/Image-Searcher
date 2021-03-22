@@ -1,3 +1,8 @@
+# Image Searcher is a simple image searching website where the user can search images based on words.
+<br>
+Here is the deployed version: <a href="https://divyanshthakur.github.io/Image-Searcher/">Image Searcher</a>
+<hr height="2px"/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
